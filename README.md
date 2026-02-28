@@ -7,7 +7,21 @@ ID.: 000588473
 ## Descripción del repositorio
 Reemplace estas líneas por la descripción de su repositorio  
 
+# Actividad 1: Ambiente de Desarrollo Integrado (IDE)  
+1. Crea un script de Python y edítalo tanto con el IDLE de Python, como con VS Code. 
+2. Crea una cuenta en Google Colab y crea un código de Python, prueba que funcione. Agrega un bloque de texto y explica qué fue lo que hiciste. 
+3. Agrega imágenes (pantallazos) utilizando cada uno de los IDEs vistos en esta actividad.
+4. Responde las siguientes preguntas con tus propias palabras (Nada de definiciones con IA o copiadas de internet). 
+    1. ¿Qué es un IDE?
+    2. ¿Cuál es la diferencia entre los 3 IDEs estudiados en esta actividad?
+    3. ¿Cuál utilizarás en el resto del curso y por qué? 
+
+
+
+
+
 # OPERADORES 
+
 ### Ejercicio 1: La cuenta del restaurante   
 > Imagina que fuiste a cenar con 3 amigos (son 4 en total). La cuenta fue de $85. Además, quieren dejar un 15% de propina.
 Escribe un programa en Python que calcule:
