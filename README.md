@@ -95,4 +95,35 @@ Una universidad otorga becas a los estudiantes si cumplen **alguna** de estas do
 > - Estar en un nivel socioeconómico nivel 1 **Y** tener un promedio mayor a 8.0.
 > 
 > 📤 **Acción en Bitácora:** Diseña la lógica en Python utilizando variables y operadores relacionales y lógicos. Sube tu análisis y código a la bitácora de tu repositorio explicando cómo funciona la evaluación de tu programa.
->
+
+- Códico de python:
+![Ejericio_3](./Imágenes/Ejercicio_3.png)  
+![Ejercicio_3.1](./Imágenes/Ejercicio_3.1.png)
+
+
+
+# Reto Final de la semana
+> **Reto Final: El Validador de Videojuegos**
+> 
+> 
+> Estás programando la lógica de una tienda de videojuegos en línea. Un usuario quiere comprar un juego de clasificación "M" (Mature / Para mayores de 17 años) que cuesta $60.
+> 
+> Crea un programa que declare las siguientes variables:
+> 
+> - `edad_usuario` (asigna un número)
+> - `saldo_billetera` (asigna un número decimal)
+> - `tiene_suscripcion_premium` (asigna `True` o `False`)
+> 
+> Tu programa debe evaluar y guardar en una variable llamada `compra_exitosa` (que será True o False) si el usuario puede comprar el juego.
+> 
+> **Condiciones para que la compra sea exitosa:**
+> 
+> 1. El usuario debe tener al menos 17 años.
+> 2. El usuario debe tener suficiente saldo en su billetera. ¡Pero atención! Si tiene suscripción premium, el juego tiene un 10% de descuento.
+> 
+> *Pista: Primero calcula el precio final usando operadores aritméticos y luego evalúa la lógica con operadores relacionales y lógicos.*
+> 
+> 📤 **Acción en Bitácora:** Sube el código de tu Reto Final a tu repositorio en un archivo llamado `reto_operadores.py`. En tu archivo Markdown de bitácora, explica brevemente qué se te dificultó más de este reto y cómo lo resolviste. ¡Mucho éxito!
+
+![Reto_operadores](./Imágenes/reto_operadores.png) 
+![Reto_operadores1](./Imágenes/reto_operadores1.png)
