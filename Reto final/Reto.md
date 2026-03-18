@@ -196,8 +196,7 @@ Destino: España
 *Completado con exito*
 
 **Resultado:**
-
-![](../Imagenes/Imagen_16.png)
+![](./Imágenes/Resultado.png)
 
 ### Caso 2
 Destino: Casablanca(Marruecos)
@@ -213,7 +212,7 @@ Destino: Casablanca(Marruecos)
 *A lo largo del tramo 4 es necesario abortar el vuelo por falta de combustible*
 
 *Resultado:*
-![](../Imagenes/Imagen_17.png)
+![](./Imágenes/Resultado_2.png)
 
 
 
