@@ -1,0 +1,15 @@
+# Datos del estudiante (Esto lo proporciono yo)
+promedio = 8.5
+nivel = 1
+
+# Condiciones
+condicion1 = promedio >= 9.0
+condicion2 = nivel == 1 and promedio > 8.0
+
+# Evaluación final
+beca = condicion1 or condicion2
+print("Promedio:", promedio)  
+print("Nivel:", nivel)
+print("¿Cumple condición 1?", condicion1)
+print("¿Cumple condición 2?", condicion2)
+print("¿Obtiene la beca?", beca)
